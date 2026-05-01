@@ -282,8 +282,8 @@ optimizer = Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=1e-3)
 ```bibtex
 @misc{dynamic-block-model,
   title={DynamicBlockModelStructure: 动态分块模型架构及其实现方法},
-  year={2025},
-  url={https://github.com/your-username/DynamicBlockModelStructure}
+  year={2026},
+  url={https://github.com/sys2008/DynamicBlockModelStructure}
 }
 ```
 ---
